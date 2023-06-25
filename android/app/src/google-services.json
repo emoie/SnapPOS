@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384439648600",
+    "project_id": "snappos",
+    "storage_bucket": "snappos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384439648600:android:0ed9d875a8a4e20322652d",
+        "android_client_info": {
+          "package_name": "com.example.snappos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384439648600-5n7sj6nsjjjf0bmdq5a8k6kiv2h2tn97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-ML7zj5Gswb-Vi4c8dBvFovETH8Vd2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384439648600-5n7sj6nsjjjf0bmdq5a8k6kiv2h2tn97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
